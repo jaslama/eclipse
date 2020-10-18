@@ -1,7 +1,7 @@
 package pokus01;
 
 //pozn.: kdyz jsem to chtel dostat do gitu, tak se muselo pres Teams / Share Project
-//       naopak z gitu: Imort / Git 
+//       naopak z gitu: Imort / Git / Projects from Git (with smart import)
 
 import java.util.Arrays;
 import java.util.List;
