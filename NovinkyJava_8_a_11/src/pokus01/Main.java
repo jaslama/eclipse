@@ -1,6 +1,7 @@
 package pokus01;
 
-/*kuk*/
+//pozn.: kdyz jsem to chtel dostat do gitu, tak se muselo pres Teams / Share Project
+//       naopak z gitu: Imort / Git 
 
 import java.util.Arrays;
 import java.util.List;
